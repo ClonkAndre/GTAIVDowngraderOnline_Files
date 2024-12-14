@@ -1,0 +1,100 @@
+[
+  {
+    "FileName": "1040.zip",
+    "FileSize": 35352487,
+    "NeedsToBeDecompressed": false,
+    "Type": "GAME_DOWNGRADE",
+    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/1040.zip"
+  },
+  {
+    "FileName": "1070.zip",
+    "FileSize": 85713611,
+    "NeedsToBeDecompressed": false,
+    "Type": "GAME_DOWNGRADE",
+    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/1070.zip"
+  },
+  {
+    "FileName": "1080.zip",
+    "FileSize": 85724117,
+    "NeedsToBeDecompressed": false,
+    "Type": "GAME_DOWNGRADE",
+    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/1080.zip"
+  },
+  {
+    "FileName": "LegacyRadioDowngrader.zip",
+    "FileSize": 690261329,
+    "NeedsToBeDecompressed": false,
+    "Type": "RADIO_DOWNGRADE",
+    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/LegacyRadioDowngrader.zip"
+  },
+  {
+    "FileName": "SneedsRadioDowngrader.zip",
+    "FileSize": 719170076,
+    "NeedsToBeDecompressed": false,
+    "Type": "RADIO_DOWNGRADE",
+    "DownloadURL": "ftp://195.201.179.80/IVDowngraderFiles/SneedsRadioDowngrader.zip"
+  },
+  {
+    "FileName": "WithNewVladivostok.zip",
+    "FileSize": 596904,
+    "NeedsToBeDecompressed": false,
+    "Type": "RADIO_DOWNGRADE",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithNewVladivostok.zip"
+  },
+  {
+    "FileName": "WithoutNewVladivostok.zip",
+    "FileSize": 594735,
+    "NeedsToBeDecompressed": false,
+    "Type": "RADIO_DOWNGRADE",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/WithoutNewVladivostok.zip"
+  },
+  {
+    "FileName": "EpisodeOnlyMusicCE.zip",
+    "FileSize": 67132,
+    "NeedsToBeDecompressed": false,
+    "Type": "RADIO_DOWNGRADE",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/EpisodeOnlyMusicCE.zip"
+  },
+  {
+    "FileName": "gfwlivesetup.exe",
+    "FileSize": 642712,
+    "NeedsToBeDecompressed": false,
+    "Type": "REDISTRIBUTABLES",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/gfwlivesetup.exe"
+  },
+  {
+    "FileName": "wllogin_32.msi",
+    "FileSize": 4649472,
+    "NeedsToBeDecompressed": false,
+    "Type": "REDISTRIBUTABLES",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/wllogin_32.msi"
+  },
+  {
+    "FileName": "wllogin_64.msi",
+    "FileSize": 6575616,
+    "NeedsToBeDecompressed": false,
+    "Type": "REDISTRIBUTABLES",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/wllogin_64.msi"
+  },
+  {
+    "FileName": "xliveredist.msi",
+    "FileSize": 21594112,
+    "NeedsToBeDecompressed": false,
+    "Type": "REDISTRIBUTABLES",
+    "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/main/downgrade/GFWL/xliveredist.msi"
+  },
+  {
+    "FileName": "directx_Jun2010_redist.exe",
+    "FileSize": 100275120,
+    "NeedsToBeDecompressed": false,
+    "Type": "REDISTRIBUTABLES",
+    "DownloadURL": "https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe"
+  },
+  {
+    "FileName": "vcredist_x86.exe",
+    "FileSize": 2723264,
+    "NeedsToBeDecompressed": false,
+    "Type": "REDISTRIBUTABLES",
+    "DownloadURL": "https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE"
+  }
+]
