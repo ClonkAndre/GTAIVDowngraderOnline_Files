@@ -91,10 +91,10 @@
     "DownloadURL": "https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe"
   },
   {
-    "FileName": "vcredist_x86.exe",
-    "FileSize": 2723264,
+    "FileName": "VisualCppRedist_AIO_x86_x64.exe",
+    "FileSize": 29001222,
     "NeedsToBeDecompressed": false,
     "Type": "REDISTRIBUTABLES",
-    "DownloadURL": "https://download.microsoft.com/download/8/B/4/8B42259F-5D70-43F4-AC2E-4B208FD8D66A/vcredist_x86.EXE"
+    "DownloadURL": "https://github.com/abbodi1406/vcredist/releases/download/v0.85.0/VisualCppRedist_AIO_x86_x64.exe"
   }
 ]
