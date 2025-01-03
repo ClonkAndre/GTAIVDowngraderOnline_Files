@@ -410,5 +410,44 @@
     "ForceToBeLastInInstallQueue": false,
     "OptionalComponents": [],
     "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "SteamAchievements.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Other/SteamAchievements.zip",
+      "SizeInBytes": 57379
+    },
+    "ForGameVersion": [
+      "1070",
+      "1080"
+    ],
+    "Title": "POST_INSTALL_ACTION_TEST",
+    "Description": "JUST A TEST",
+    "WarningMessage": "",
+    "OfficialModWebPage": "",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": null,
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": [
+      {
+        "TargetFileName": "ZolikaPatch.ini",
+        "EditEntries": [
+          {
+            "Section": "Options",
+            "Key": "AddOptionsInMenu",
+            "NewValue": "123456789"
+          }
+        ],
+        "Type": 1
+      }
+    ]
   }
 ]
