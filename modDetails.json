@@ -131,7 +131,7 @@
   {
     "FileDetails": {
       "Name": "NoCursorEscape.zip",
-      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/blob/v2.2/mods/ASI%20Mods/Fixes/NoCursorEscape.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Fixes/NoCursorEscape.zip",
       "SizeInBytes": 111953
     },
     "ForGameVersion": [
@@ -328,7 +328,7 @@
   {
     "FileDetails": {
       "Name": "ZolikaPatch.zip",
-      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/blob/v2.2/mods/ASI%20Mods/Fixes/ZolikaPatch.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Fixes/ZolikaPatch.zip",
       "SizeInBytes": 606987
     },
     "ForGameVersion": [
