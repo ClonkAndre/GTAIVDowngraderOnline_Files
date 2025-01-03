@@ -1,0 +1,414 @@
+[
+  {
+    "FileDetails": {
+      "Name": "ColAccel.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Other/ColAccel.zip",
+      "SizeInBytes": 62688
+    },
+    "ForGameVersion": [
+      "1070",
+      "1080"
+    ],
+    "Title": "ColAccel",
+    "Description": "ColAccel is a .asi plugin for GTA IV and EFLC (without any external dependencies) which creates a 'colCache.dat' file on the first load, \ncontaining all the data actually used by the game from the collision meshes (basically, 580 kB with a lot of redundant data, nothing like 500 MB!) and accelerating your game load time by 50% or more.",
+    "WarningMessage": "This mod could cause memory issues!\\nIf you have problems like disappearing world, try to remove this mod first!",
+    "OfficialModWebPage": "https://gtaforums.com/topic/676844-colaccel-reduce-loading-time-by-50",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "IV-Presence.Version.1.5.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/IV-Presence/releases/download/1.5/IV-Presence.Version.1.5.zip",
+      "SizeInBytes": 52851
+    },
+    "ForGameVersion": [
+      "1070",
+      "1080"
+    ],
+    "Title": "IV-Presence v1.5",
+    "Description": "IV-Presence is an innovative modification for GTA IV that integrates Discord Rich Presence, allowing your friends on Discord to see real-time details about your adventures in Liberty City!\r\nImmerse yourself in the game while showcasing your activities with dynamic updates on your Discord profile.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://gtaforums.com/topic/975850-iv-presence/",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": null,
+    "DotNetModDetails": {
+      "ForScriptHookDotNet": false,
+      "ForIVSDKDotNet": true
+    },
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "IV-SDK.NET.v1.8.1.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/IV-SDK-DotNet/releases/download/1.8.1/IV-SDK.NET.v1.8.1.zip",
+      "SizeInBytes": 1582043
+    },
+    "ForGameVersion": [
+      "1070",
+      "1080"
+    ],
+    "Title": "IV-SDK .NET v1.8.1",
+    "Description": "IV-SDK .NET has the same concept as ScriptHookDotNet. \nIt's a SDK for modders to create, and for consumers to run .NET scripts in GTA IV.\\n\nThis SDK is also much newer, and also alot more powerful, aiming to give the developer alot of freedom on what they want to create.\\n\nIt also got experimental support for loading ScriptHookDotNet scripts.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://gtaforums.com/topic/986510-iv-sdk-net",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": true,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [
+      {
+        "FileDetails": {
+          "Name": "ClonksCodingLib.GTAIV.v1.9.zip",
+          "DownloadURL": "https://github.com/ClonkAndre/ClonksCodingLib.GTAIV/releases/download/v1.9/ClonksCodingLib.GTAIV.v1.9.zip",
+          "SizeInBytes": 110104
+        },
+        "Title": "ClonksCodingLib.GTAIV v1.9",
+        "Description": "This helpful extension is used by most IV-SDK .NET mods.",
+        "CheckedByDefault": true
+      }
+    ],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "Liberty's Legacy.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Trainer/Liberty's%20Legacy.zip",
+      "SizeInBytes": 576757
+    },
+    "ForGameVersion": [
+      "1040",
+      "1070",
+      "1080"
+    ],
+    "Title": "Liberty's Legacy v2.4",
+    "Description": "A great user friendly trainer with a nice looking user interface (UI) made by Const96b!\\n\nIf you are looking for something simple, and non-confusing, this trainer is for you!",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://gtaforums.com/topic/973091-libertys-legacy-trainer-gta-iv-ce-12043-above/",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": true
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "NoCursorEscape.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/blob/v2.2/mods/ASI%20Mods/Fixes/NoCursorEscape.zip",
+      "SizeInBytes": 111953
+    },
+    "ForGameVersion": [
+      "1040",
+      "1070",
+      "1080"
+    ],
+    "Title": "No Cursor Escape",
+    "Description": "This mod prevents the cursor from leaving the main monitor while GTA IV is open, \nstopping it from moving to a secondary screen and interfering with other programs like web browsers.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://gtaforums.com/topic/988909-itsclonkandres-workshop",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "ScriptHook_1070.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/ScriptHook/ScriptHook_1070.zip",
+      "SizeInBytes": 172353
+    },
+    "ForGameVersion": [
+      "1070"
+    ],
+    "Title": "ScriptHook",
+    "Description": "ScriptHook is a modding SDK developed by aru that allows modders to create ASI script mods using C++.\\n\nTo use ASI mods built with this SDK, such as ScriptHookDotNet, you will need to have ScriptHook installed.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://gtaforums.com/topic/390582-c-script-hook/",
+    "IsASILoader": false,
+    "IsScriptHook": true,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": null,
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "ScriptHook_1080.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/ScriptHook/ScriptHook_1080.zip",
+      "SizeInBytes": 241281
+    },
+    "ForGameVersion": [
+      "1080"
+    ],
+    "Title": "ScriptHook",
+    "Description": "ScriptHook is a modding SDK developed by aru that allows modders to create ASI script mods using C++.\\n\nTo use ASI mods built with this SDK, such as ScriptHookDotNet, you will need to have ScriptHook installed.\\n\nThis is the modified version which supports version 1.0.8.0 of GTA IV.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://gtaforums.com/topic/946154-release-gtaiv-net-scripthook-v1718-support-for-gta-iv-1080-and-eflc-1130-by-arinc9-zolika1351",
+    "IsASILoader": false,
+    "IsScriptHook": true,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": null,
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "ScriptHookDotNet.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/ScriptHook/ScriptHookDotNet.zip",
+      "SizeInBytes": 228232
+    },
+    "ForGameVersion": [
+      "1040",
+      "1070",
+      "1080"
+    ],
+    "Title": "ScriptHookDotNet v1.7.2.0",
+    "Description": "ScriptHookDotNet is a modding SDK developed by HazardX that allows modders to write script mods in any .NET language such as C#.\\n\nIf you plan on using .NET mods such as LCPDFR you will need this.\\n\nThis is the modified version which supports version 1.0.8.0 of GTA IV, and includes a fix for rain falling through an interior.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://github.com/ClonkAndre/gta4_scripthookdotnet",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": true,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": null,
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "SteamAchievements.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Other/SteamAchievements.zip",
+      "SizeInBytes": 57379
+    },
+    "ForGameVersion": [
+      "1070",
+      "1080"
+    ],
+    "Title": "Steam Achievements",
+    "Description": "This mod enables Steam Achievement support for older patches of GTA IV.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivsteamachievements",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": false,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "Ultimate-ASI-Loader.zip",
+      "DownloadURL": "https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/download/v7.7.0/Ultimate-ASI-Loader.zip",
+      "SizeInBytes": 775776
+    },
+    "ForGameVersion": [
+      "1040",
+      "1070",
+      "1080"
+    ],
+    "Title": "Ultimate ASI Loader v7.7.0",
+    "Description": "The Ultimate ASI Loader by ThirteenAG is a DLL file that adds ASI plugin loading functionality to any game.\\n\nHaving one is absolutely necessary when trying to use ANY script mod.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://github.com/ThirteenAG/Ultimate-ASI-Loader",
+    "IsASILoader": true,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": null,
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": true,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "ZMenuIV.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Trainer/ZMenuIV.zip",
+      "SizeInBytes": 98336446
+    },
+    "ForGameVersion": [
+      "1040",
+      "1070",
+      "1080"
+    ],
+    "Title": "ZMenuIV v23.09.18.2",
+    "Description": "A very powerful trainer with a wide variety of features.\\n\nFrom basics like godmode to features as advanced as weapon recoil, first person, VR support, chaos mod, GTA V radar and light spawning.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivmenu",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "ZolikaPatch.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/blob/v2.2/mods/ASI%20Mods/Fixes/ZolikaPatch.zip",
+      "SizeInBytes": 606987
+    },
+    "ForGameVersion": [
+      "1070",
+      "1080"
+    ],
+    "Title": "ZolikaPatch v7.65",
+    "Description": "This mod aims to fix & improve various things in GTA IV, \nsuch as restoring vehicle shadows in the Booth Tunnel and heli spotlights, \nfixing cutscene zoom and stutter at high FPS, improving loading times, \nfixing SMPA60 errors, fixing VRAM issues on patch 7 and below, \nand removing the requirement to log into Social Club to play Multiplayer.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivpatch",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": false,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": true,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "ZolikaPatch_1040.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Fixes/ZolikaPatch_1040.zip",
+      "SizeInBytes": 606986
+    },
+    "ForGameVersion": [
+      "1040"
+    ],
+    "Title": "ZolikaPatch v7.65",
+    "Description": "This mod aims to fix & improve various things in GTA IV, \nsuch as restoring vehicle shadows in the Booth Tunnel and heli spotlights, \nfixing cutscene zoom and stutter at high FPS, improving loading times, \nfixing SMPA60 errors, fixing VRAM issues on patch 7 and below, \nand removing the requirement to log into Social Club to play Multiplayer.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivpatch",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": false,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": true,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "ZolikaPatch_GFWL.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Fixes/ZolikaPatch_GFWL.zip",
+      "SizeInBytes": 606987
+    },
+    "ForGameVersion": [
+      "1070",
+      "1080"
+    ],
+    "Title": "ZolikaPatch v7.65",
+    "Description": "This mod aims to fix & improve various things in GTA IV, \nsuch as restoring vehicle shadows in the Booth Tunnel and heli spotlights, \nfixing cutscene zoom and stutter at high FPS, improving loading times, \nfixing SMPA60 errors, fixing VRAM issues on patch 7 and below, \nand removing the requirement to log into Social Club to play Multiplayer.",
+    "WarningMessage": "",
+    "OfficialModWebPage": "https://zolika1351.pages.dev/mods/ivpatch",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": true,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  }
+]

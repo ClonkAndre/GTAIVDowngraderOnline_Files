@@ -1,0 +1,100 @@
+[
+  {
+    "FileDetails": {
+      "Name": "1040.zip",
+      "DownloadURL": "https://www.dropbox.com/scl/fi/mmzfukqsyzumq6dyz7y56/1040.zip?rlkey=bf2ckf167d7opyflgc9466g92&dl=1",
+      "SizeInBytes": 35352487
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "1070.zip",
+      "DownloadURL": "https://www.dropbox.com/scl/fi/4vllumqoyjah8t5sfe6x3/1070.zip?rlkey=7ixpfbj82l51g9bbls0ihmbvc&dl=1",
+      "SizeInBytes": 85713611
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "1080.zip",
+      "DownloadURL": "https://www.dropbox.com/scl/fi/uu9xx99omc69t6hryzs6g/1080.zip?rlkey=bfsctqgz7g1abqfrtrg01qaej&dl=1",
+      "SizeInBytes": 85724117
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "LegacyRadioDowngrader.zip",
+      "DownloadURL": "https://www.dropbox.com/scl/fi/2twxv1v8p7b6dp5fr8z5a/LegacyRadioDowngrader.zip?rlkey=ed3e4eejs4jb807am6ac7bj8p&dl=1",
+      "SizeInBytes": 690261329
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "SneedsRadioDowngrader.zip",
+      "DownloadURL": "https://www.dropbox.com/scl/fi/5grxo7y9kndrkg9rrklzs/SneedsRadioDowngrader.zip?rlkey=qvpcbkl9ev2ee4fkzw0zykimf&dl=1",
+      "SizeInBytes": 719170076
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "NewVladivostok.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/downgrade/Radio/NewVladivostok.zip",
+      "SizeInBytes": 596904
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "OldVladivostok.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/downgrade/Radio/OldVladivostok.zip",
+      "SizeInBytes": 594735
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "NoEpisodeMusicInIV.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/downgrade/Radio/NoEpisodeMusicInIV.zip",
+      "SizeInBytes": 66299
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "gfwlivesetup.exe",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/downgrade/Redistributables/GFWL/gfwlivesetup.exe",
+      "SizeInBytes": 642712
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "wllogin_32.msi",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/downgrade/Redistributables/GFWL/wllogin_32.msi",
+      "SizeInBytes": 4649472
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "wllogin_64.msi",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/downgrade/Redistributables/GFWL/wllogin_64.msi",
+      "SizeInBytes": 6575616
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "xliveredist.msi",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/downgrade/Redistributables/GFWL/xliveredist.msi",
+      "SizeInBytes": 21594112
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "directx_Jun2010_redist.exe",
+      "DownloadURL": "https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe",
+      "SizeInBytes": 100275120
+    }
+  },
+  {
+    "FileDetails": {
+      "Name": "VisualCppRedist_AIO_x86_x64.exe",
+      "DownloadURL": "https://github.com/abbodi1406/vcredist/releases/download/v0.85.0/VisualCppRedist_AIO_x86_x64.exe",
+      "SizeInBytes": 29001222
+    }
+  }
+]
