@@ -9,6 +9,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "ColAccel",
     "Description": "ColAccel is a .asi plugin for GTA IV and EFLC (without any external dependencies) which creates a 'colCache.dat' file on the first load, \ncontaining all the data actually used by the game from the collision meshes (basically, 580 kB with a lot of redundant data, nothing like 500 MB!) and accelerating your game load time by 50% or more.",
     "WarningMessage": "This mod could cause memory issues!\\nIf you have problems like disappearing world, try to remove this mod first!",
@@ -38,6 +39,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "FusionFix",
     "Title": "FusionFix OLD",
     "Description": "This is the old version of FusionFix incase you are having problems with the new one or you prefer the old one. \nFixes basic things like Recoil, FPS, Shader or Shadow related issues.",
     "WarningMessage": "This is an older version of Fusion Fix, which does not include all the cool new stuff they added in the newer versions.",
@@ -67,6 +69,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "FusionFix",
     "Title": "FusionFix OLD",
     "Description": "This is the old version of FusionFix incase you are having problems with the new one or you prefer the old one. \nFixes basic things like Recoil, FPS, Shader or Shadow related issues.",
     "WarningMessage": "This is an older version of Fusion Fix, which does not include all the cool new stuff they added in the newer versions.",
@@ -96,6 +99,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "IV-Presence v1.5",
     "Description": "IV-Presence is an innovative modification for GTA IV that integrates Discord Rich Presence, allowing your friends on Discord to see real-time details about your adventures in Liberty City!\r\nImmerse yourself in the game while showcasing your activities with dynamic updates on your Discord profile.",
     "WarningMessage": "",
@@ -126,6 +130,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "IV-SDK .NET v1.8.1",
     "Description": "IV-SDK .NET has the same concept as ScriptHookDotNet. \nIt's a SDK for modders to create, and for consumers to run .NET scripts in GTA IV.\\n\nThis SDK is also much newer, and also alot more powerful, aiming to give the developer alot of freedom on what they want to create.\\n\nIt also got experimental support for loading ScriptHookDotNet scripts.",
     "WarningMessage": "",
@@ -167,6 +172,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "Liberty's Legacy v2.4",
     "Description": "A great user friendly trainer with a nice looking user interface (UI) made by Const96b!\\n\nIf you are looking for something simple, and non-confusing, this trainer is for you!",
     "WarningMessage": "",
@@ -197,6 +203,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "No Cursor Escape",
     "Description": "This mod prevents the cursor from leaving the main monitor while GTA IV is open, \nstopping it from moving to a secondary screen and interfering with other programs like web browsers.",
     "WarningMessage": "",
@@ -226,6 +233,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "POST_INSTALL_ACTION_TEST",
     "Description": "JUST A TEST",
     "WarningMessage": "",
@@ -266,6 +274,7 @@
     "ForGameVersion": [
       "1070"
     ],
+    "UniqueName": "",
     "Title": "ScriptHook",
     "Description": "ScriptHook is a modding SDK developed by aru that allows modders to create ASI script mods using C++.\\n\nTo use ASI mods built with this SDK, such as ScriptHookDotNet, you will need to have ScriptHook installed.",
     "WarningMessage": "",
@@ -292,6 +301,7 @@
     "ForGameVersion": [
       "1080"
     ],
+    "UniqueName": "",
     "Title": "ScriptHook",
     "Description": "ScriptHook is a modding SDK developed by aru that allows modders to create ASI script mods using C++.\\n\nTo use ASI mods built with this SDK, such as ScriptHookDotNet, you will need to have ScriptHook installed.\\n\nThis is the modified version which supports version 1.0.8.0 of GTA IV.",
     "WarningMessage": "",
@@ -320,6 +330,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "ScriptHookDotNet v1.7.2.0",
     "Description": "ScriptHookDotNet is a modding SDK developed by HazardX that allows modders to write script mods in any .NET language such as C#.\\n\nIf you plan on using .NET mods such as LCPDFR you will need this.\\n\nThis is the modified version which supports version 1.0.8.0 of GTA IV, and includes a fix for rain falling through an interior.",
     "WarningMessage": "",
@@ -347,6 +358,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "Steam Achievements",
     "Description": "This mod enables Steam Achievement support for older patches of GTA IV.",
     "WarningMessage": "",
@@ -377,6 +389,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "Ultimate ASI Loader v7.7.0",
     "Description": "The Ultimate ASI Loader by ThirteenAG is a DLL file that adds ASI plugin loading functionality to any game.\\n\nHaving one is absolutely necessary when trying to use ANY script mod.",
     "WarningMessage": "",
@@ -405,6 +418,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "",
     "Title": "ZMenuIV v23.09.18.2",
     "Description": "A very powerful trainer with a wide variety of features.\\n\nFrom basics like godmode to features as advanced as weapon recoil, first person, VR support, chaos mod, GTA V radar and light spawning.",
     "WarningMessage": "",
@@ -434,6 +448,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "ZolikaPatch",
     "Title": "ZolikaPatch v7.65",
     "Description": "This mod aims to fix & improve various things in GTA IV, \nsuch as restoring vehicle shadows in the Booth Tunnel and heli spotlights, \nfixing cutscene zoom and stutter at high FPS, improving loading times, \nfixing SMPA60 errors, fixing VRAM issues on patch 7 and below, \nand removing the requirement to log into Social Club to play Multiplayer.",
     "WarningMessage": "",
@@ -462,6 +477,7 @@
     "ForGameVersion": [
       "1040"
     ],
+    "UniqueName": "ZolikaPatch",
     "Title": "ZolikaPatch v7.65",
     "Description": "This mod aims to fix & improve various things in GTA IV, \nsuch as restoring vehicle shadows in the Booth Tunnel and heli spotlights, \nfixing cutscene zoom and stutter at high FPS, improving loading times, \nfixing SMPA60 errors, fixing VRAM issues on patch 7 and below, \nand removing the requirement to log into Social Club to play Multiplayer.",
     "WarningMessage": "",
@@ -491,6 +507,7 @@
       "1070",
       "1080"
     ],
+    "UniqueName": "ZolikaPatch",
     "Title": "ZolikaPatch v7.65",
     "Description": "This mod aims to fix & improve various things in GTA IV, \nsuch as restoring vehicle shadows in the Booth Tunnel and heli spotlights, \nfixing cutscene zoom and stutter at high FPS, improving loading times, \nfixing SMPA60 errors, fixing VRAM issues on patch 7 and below, \nand removing the requirement to log into Social Club to play Multiplayer.",
     "WarningMessage": "",
