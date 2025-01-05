@@ -30,6 +30,64 @@
   },
   {
     "FileDetails": {
+      "Name": "FusionFix.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/main/mods/FusionFix.zip",
+      "SizeInBytes": 4135521
+    },
+    "ForGameVersion": [
+      "1070",
+      "1080"
+    ],
+    "Title": "FusionFix OLD",
+    "Description": "This is the old version of FusionFix incase you are having problems with the new one or you prefer the old one. \nFixes basic things like Recoil, FPS, Shader or Shadow related issues.",
+    "WarningMessage": "This is an older version of Fusion Fix, which does not include all the cool new stuff they added in the newer versions.",
+    "OfficialModWebPage": "https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": false,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
+      "Name": "FusionFix_GFWL.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/main/mods/FusionFix_GFWL.zip",
+      "SizeInBytes": 4135520
+    },
+    "ForGameVersion": [
+      "1070",
+      "1080"
+    ],
+    "Title": "FusionFix OLD",
+    "Description": "This is the old version of FusionFix incase you are having problems with the new one or you prefer the old one. \nFixes basic things like Recoil, FPS, Shader or Shadow related issues.",
+    "WarningMessage": "This is an older version of Fusion Fix, which does not include all the cool new stuff they added in the newer versions.",
+    "OfficialModWebPage": "https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix",
+    "IsASILoader": false,
+    "IsScriptHook": false,
+    "IsScriptHookDotNet": false,
+    "IsIVSDKDotNet": false,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
+    "DotNetModDetails": null,
+    "CompatibleWithGFWL": true,
+    "ShowInDowngrader": true,
+    "CheckedByDefault": false,
+    "ForceToBeLastInInstallQueue": false,
+    "OptionalComponents": [],
+    "PostInstallActions": []
+  },
+  {
+    "FileDetails": {
       "Name": "IV-Presence.Version.1.5.zip",
       "DownloadURL": "https://github.com/ClonkAndre/IV-Presence/releases/download/1.5/IV-Presence.Version.1.5.zip",
       "SizeInBytes": 52851
@@ -179,7 +237,7 @@
     "ASIModDetails": null,
     "DotNetModDetails": null,
     "CompatibleWithGFWL": true,
-    "ShowInDowngrader": true,
+    "ShowInDowngrader": false,
     "CheckedByDefault": false,
     "ForceToBeLastInInstallQueue": false,
     "OptionalComponents": [],
