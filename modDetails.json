@@ -225,16 +225,16 @@
   },
   {
     "FileDetails": {
-      "Name": "SteamAchievements.zip",
-      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/v2.2/mods/ASI%20Mods/Other/SteamAchievements.zip",
-      "SizeInBytes": 57379
+      "Name": "FusionFix_GFWL.zip",
+      "DownloadURL": "https://github.com/ClonkAndre/GTAIVDowngraderOnline_Files/raw/refs/heads/main/mods/FusionFix_GFWL.zip",
+      "SizeInBytes": 4135520
     },
     "ForGameVersion": [
       "1070",
       "1080"
     ],
     "UniqueName": "",
-    "Title": "POST_INSTALL_ACTION_TEST",
+    "Title": "FORCE_LAST_IN_INSTALL_QUEUE_TEST",
     "Description": "JUST A TEST",
     "WarningMessage": "",
     "OfficialModWebPage": "",
@@ -242,28 +242,16 @@
     "IsScriptHook": false,
     "IsScriptHookDotNet": false,
     "IsIVSDKDotNet": false,
-    "ASIModDetails": null,
+    "ASIModDetails": {
+      "ForScriptHook": false
+    },
     "DotNetModDetails": null,
     "CompatibleWithGFWL": true,
-    "ShowInDowngrader": false,
+    "ShowInDowngrader": true,
     "CheckedByDefault": false,
-    "ForceToBeLastInInstallQueue": false,
+    "ForceToBeLastInInstallQueue": true,
     "OptionalComponents": [],
-    "PostInstallActions": [
-      {
-        "Type": 1,
-        "Action": {
-          "TargetFileName": "ZolikaPatch.ini",
-          "EditEntries": [
-            {
-              "Section": "Options",
-              "Key": "AddOptionsInMenu",
-              "NewValue": "123456789"
-            }
-          ]
-        }
-      }
-    ]
+    "PostInstallActions": []
   },
   {
     "FileDetails": {
