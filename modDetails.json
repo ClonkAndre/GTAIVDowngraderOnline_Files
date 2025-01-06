@@ -247,7 +247,7 @@
     },
     "DotNetModDetails": null,
     "CompatibleWithGFWL": true,
-    "ShowInDowngrader": true,
+    "ShowInDowngrader": false,
     "CheckedByDefault": false,
     "ForceToBeLastInInstallQueue": true,
     "OptionalComponents": [],
